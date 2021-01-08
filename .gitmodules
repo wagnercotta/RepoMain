@@ -6,3 +6,6 @@
 	path = RepoB
 	url = https://github.com/wagnercotta/RepoB.git
 	branch = main
+[submodule "RepoC"]
+	path = RepoC
+	url = https://github.com/wagnercotta/RepoC.git
