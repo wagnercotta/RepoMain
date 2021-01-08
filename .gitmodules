@@ -1,0 +1,8 @@
+[submodule "RepoA"]
+	path = RepoA
+	url = https://github.com/wagnercotta/RepoA.git
+	branch = main
+[submodule "RepoB"]
+	path = RepoB
+	url = https://github.com/wagnercotta/RepoB.git
+	branch = main
